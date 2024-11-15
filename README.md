@@ -10,14 +10,10 @@ Data Preparation I imported the data into Power BI and transformed it on Power Q
 - With the project objective in mind, I sought to eliminate any data that would be irrelevant to my analysis.
 - Data Transformation Here, I created Queries to organise data for better analysis and reporting.
 
--So I created a various calculated measures to create a required fields to create a insights and the required visualization, so I renamed the columns where needed, so they are meaningful enough when they appear as title in the charts.
+So I created a various calculated measures to create a required fields to create a insights and the required visualization, so I renamed the columns where needed, so they are meaningful enough when they appear as title in the charts.
 
 Visualization — Report I started the report by creating a few DAX measures. DAX simply means Data Analysis Expression. It is an expression that helps with calculations while building report. I created various measures for the requirement of the visualization:
 
-Customers(Number of customers)
-Churn rate (%)
-Customers Churned and etc,.
-Finally, I built the report in the screenshot below, taking into account the key factors like average income, avg monthly charges, age group, activity status, gender, credit score, e.t.c. and their effects on the churn rate. This helped me gain insights about the process
 # I created a visualisation
 
 ![Screenshot 2024-11-15 151003](https://github.com/user-attachments/assets/32f6a5b8-1fba-4cd1-9eed-973457fadd19)
