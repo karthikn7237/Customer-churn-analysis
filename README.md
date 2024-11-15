@@ -1,11 +1,23 @@
 # Customer-churn-analysis
-- The challenge is to analyze this dataset using data analytics techniques and uncover insights that can help
-the company understand the drivers of churn and take measures to retain customers.
-- Utilized SQL to extract and preprocess data from a customer base of 7,043, ensuring accuracy by addressing
-missing values and performing data cleaning.
-- Created DAX for advanced calculations, enhancing the analytical capabilities of the data model to analyze
-1,869 churned customers and a churn rate of 26.54%.
+Problem Statement The problem at hand is to analyze customer churn for a telecommunications company. The company is experiencing a high rate of customer churn, resulting in significant revenue loss. The management wants to identify the key factors contributing to customer churn and develop strategies to reduce churn rate and increase customer retention. The dataset provided includes information about customers, such as demographics, service usage, contract details, and customer churn status.
 
+AIM: The challenge is to analyze this dataset using data analytics techniques and uncover insights that can help the company understand the drivers of churn and take proactive measures to retain customers.
+
+Data Preparation I imported the data into Power BI and transformed it on Power Query as follows:
+
+- Next, I eliminated the auto-generated header, by promoting the first row of my data to become the header.
+- Using the given datasets, I have cleaned and removed the Null values and Blank values.
+- With the project objective in mind, I sought to eliminate any data that would be irrelevant to my analysis.
+- Data Transformation Here, I created Queries to organise data for better analysis and reporting.
+
+-So I created a various calculated measures to create a required fields to create a insights and the required visualization, so I renamed the columns where needed, so they are meaningful enough when they appear as title in the charts.
+
+Visualization — Report I started the report by creating a few DAX measures. DAX simply means Data Analysis Expression. It is an expression that helps with calculations while building report. I created various measures for the requirement of the visualization:
+
+Customers(Number of customers)
+Churn rate (%)
+Customers Churned and etc,.
+Finally, I built the report in the screenshot below, taking into account the key factors like average income, avg monthly charges, age group, activity status, gender, credit score, e.t.c. and their effects on the churn rate. This helped me gain insights about the process
 # I created a visualisation
 
 ![Screenshot 2024-11-15 151003](https://github.com/user-attachments/assets/32f6a5b8-1fba-4cd1-9eed-973457fadd19)
