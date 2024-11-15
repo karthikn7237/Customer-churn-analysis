@@ -5,8 +5,6 @@ the company understand the drivers of churn and take measures to retain customer
 missing values and performing data cleaning.
 - Created DAX for advanced calculations, enhancing the analytical capabilities of the data model to analyze
 1,869 churned customers and a churn rate of 26.54%.
-- Resulted in insights from a dashboard on demographics, contract type, and age distribution, leading to
-improved retention strategies that maintained monthly revenue of $447.91K and total revenue of $21.37M.
 
 # I created a visualisation
 
@@ -22,3 +20,6 @@ improved retention strategies that maintained monthly revenue of $447.91K and to
 
 # Customer Dashboard
 ![Screenshot 2024-11-15 151234](https://github.com/user-attachments/assets/83c7f231-00a9-4410-9827-084d5eeb14ba)
+
+# Results
+- Resulted in insights from a dashboard on demographics, contract type, and age distribution, leading to improved retention strategies that maintained monthly revenue of $447.91K and total revenue of $21.37M.
