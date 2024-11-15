@@ -8,8 +8,8 @@ missing values and performing data cleaning.
 - Resulted in insights from a dashboard on demographics, contract type, and age distribution, leading to
 improved retention strategies that maintained monthly revenue of $447.91K and total revenue of $21.37M.
 
+# I created a visualisation
 
-![Screenshot 2024-11-15 145534](https://github.com/user-attachments/assets/cc2eb42f-44d4-4ea4-b868-a1931fee0540)
 ![Screenshot 2024-11-15 151003](https://github.com/user-attachments/assets/32f6a5b8-1fba-4cd1-9eed-973457fadd19)
 ![Screenshot 2024-11-15 151018](https://github.com/user-attachments/assets/f01a3074-beb9-44cb-95a9-2e2b41769c9a)
 ![Screenshot 2024-11-15 151039](https://github.com/user-attachments/assets/f8629e4b-3729-419b-8bfe-acd97eb6e5b1)
